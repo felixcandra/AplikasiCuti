@@ -1,0 +1,20 @@
+insert update delete get division - oke
+insert update delete get leave - oke
+insert update delete get position - oke
+insert update delete get employee - oke
+insert update delete takeleave - oke
+get leave employee - oke
+get takeleavemanager - oke
+get takeleaveemployee - oke
+get takeleaveadmin - oke
+insert get log - oke
+get login - oke
+subtract quota - oke
+reset quota - oke
+reschedule - oke
+rejected - oke
+cancel leave - oke
+birthleaveinit - oke
+birth leave - oke
+get quota - oke
+
